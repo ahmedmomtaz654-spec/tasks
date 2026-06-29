@@ -1,0 +1,17 @@
+h1{
+    color: blue;
+}
+body{
+    background-color: rgb(7, 7, 39);
+}
+p{
+    color: aliceblue;
+}
+img{
+    width: 200px; height: 200px; 
+    
+}
+td{
+    color: aliceblue;
+    background-color: rgb(16, 16, 168);
+}
